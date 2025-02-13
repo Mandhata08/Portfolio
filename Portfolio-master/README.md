@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="[https://mandhata-portfolio.vercel.app/]" target="_blank">mandhata.tech</a>
+  <a href="https://mandhata-portfolio.vercel.app/" target="_blank">mandhata.tech</a>
 </h2>
 
 
